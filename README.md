@@ -18,12 +18,7 @@ I'm always looking to grow my personal and professional skills, so don't hesitat
 
 ## Skills 
 
-<img src='https://github.com/marisa2306/marisa2306/blob/main/html-5-logo.png' alt='html' height='40'> 
-<img src='https://github.com/marisa2306/marisa2306/blob/main/bootstrap.svg' alt='html' height='40'> 
-<img src='https://github.com/marisa2306/marisa2306/blob/main/js.svg' alt='html' height='40'>
-<img src='https://github.com/marisa2306/marisa2306/blob/main/express.svg' alt='html' height='40'> 
-<img src='https://github.com/marisa2306/marisa2306/blob/main/react.svg' alt='html' height='40'> 
-<img src='https://github.com/marisa2306/marisa2306/blob/main/node.svg' alt='html' height='40'> 
+<img src='https://github.com/marisa2306/marisa2306/blob/main/html-5-logo.png' alt='html' height='40'> <img src='https://github.com/marisa2306/marisa2306/blob/main/css-3-logo.png' alt='html' height='40'> <img src='https://github.com/marisa2306/marisa2306/blob/main/bootstrap.svg' alt='html' height='40'> <img src='https://github.com/marisa2306/marisa2306/blob/main/js.svg' alt='html' height='40'> <img src='https://github.com/marisa2306/marisa2306/blob/main/express.svg' alt='html' height='40'> <img src='https://github.com/marisa2306/marisa2306/blob/main/react.svg' alt='html' height='40'> <img src='https://github.com/marisa2306/marisa2306/blob/main/node.svg' alt='html' height='40'> 
 
 ## My Github
 
