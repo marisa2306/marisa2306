@@ -9,14 +9,15 @@ I like to take project from the conceptual stage of visual mock-ups and carry it
 - 👯 I’m looking to collaborate on Open Source project 
 - 💬 Ask me about Code, Design, Travels, Italy   
 
+## You can find me here:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/marisa2306)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/marisa-vitale//)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/your-work/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/marisa2306)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/marisa-vitale//)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/your-work/)  
+
 
 ## Skills 
 REACT / JS / HTML / CSS / 
 
+## My Github
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marisa2306&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
