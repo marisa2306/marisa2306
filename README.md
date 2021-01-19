@@ -19,7 +19,9 @@ I'm always looking to grow my personal and professional skills, so don't hesitat
 
 
 ## Skills 
-https://github.com/marisa2306/marisa2306/blob/main/html-5-logo.png REACT / JS / HTML / CSS / 
+
+[<img src='https://github.com/marisa2306/marisa2306/blob/main/html-5-logo.png' alt='html' height='40'>]
+ REACT / JS / HTML / CSS / 
 
 ## My Github
 
