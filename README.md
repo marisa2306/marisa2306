@@ -3,11 +3,15 @@
 # Hi there 👋, I am Marisa
 
 An Italian former Architect who recently decided to switch careers and become a Full Stack Web Developer. 
-I like to take project from the conceptual stage of visual mock-ups and carry it through development all by myself.
+To help me with my transition, I decided to attend Ironhack Web Development Bootcamp in Madrid where I graduated as a Full-Stack MERN developer.
+
+I like to take project from the conceptual stage of visual mock-ups and carry it through development all by myself. 
 
 - 🌱 I’m currently learning React Redux, Hooks 
 - 👯 I’m looking to collaborate on Open Source project 
 - 💬 Ask me about Code, Design, Travels, Italy   
+
+I'm always looking to grow my personal and professional skills, so don't hesitate to contact me or to give me suggestions and advices.
 
 ## You can find me here 
 
