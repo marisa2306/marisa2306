@@ -6,7 +6,12 @@ I'm Marisa, an Italian former Architect who recently decided to switch careers a
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning React Redux, Hooks 
+- 👯 I’m looking to collaborate on Open Source project 
+
+
+
+
 
 
 
