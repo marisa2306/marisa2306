@@ -1,6 +1,6 @@
 ![Design and Development](https://media-exp1.licdn.com/dms/image/C4D16AQHlkDNK3vFSjA/profile-displaybackgroundimage-shrink_200_800/0/1566752127388?e=1616630400&v=beta&t=PDxlOuZLwmdrc2BzChU3bnN_tWMMigv_ziVnG2vNyEo)
 
-# Hi there 👋, I am Marisa
+# < Hi there 👋, I am Marisa />
 
 An Italian former Architect who recently decided to switch careers and become a Full Stack Web Developer. 
 To help me with my transition, I decided to attend Ironhack Web Development Bootcamp in Madrid where I graduated as a Full-Stack MERN developer.
