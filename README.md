@@ -2,7 +2,8 @@
 
 ### Hi there 👋, my name is Marisa
 
-I'm Marisa, an Italian former Architect who recently decided to switch careers and become a Full Stack Web Developer. I like to take project from the conceptual stage of visual mock-ups and carry it through development all by myself.
+I'm Marisa, an Italian former Architect who recently decided to switch careers and become a Full Stack Web Developer. 
+I like to take project from the conceptual stage of visual mock-ups and carry it through development all by myself.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/marisa2306)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/marisa-vitale//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/your-work/)  
 
