@@ -4,16 +4,17 @@
 
 I'm Marisa, an Italian former Architect who recently decided to switch careers and become a Full Stack Web Developer. I like to take project from the conceptual stage of visual mock-ups and carry it through development all by myself.
 
-## Skills and Experience: 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/marisa2306)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/marisa-vitale//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/your-work/)  
 
-*  / JS / HTML / CSS
+## Skills 
+REACT / JS / HTML / CSS / 
+
+
+## Skills 
 
 - 🌱 I’m currently learning React Redux, Hooks 
 - 👯 I’m looking to collaborate on Open Source project 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/marisa2306)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/marisa-vitale//)  
-
+- 💬 Ask me about Code, Design, Travels, Italy 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marisa2306&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
