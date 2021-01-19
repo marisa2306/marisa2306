@@ -1,5 +1,3 @@
-![Design and Development](https://media-exp1.licdn.com/dms/image/C4D16AQHlkDNK3vFSjA/profile-displaybackgroundimage-shrink_200_800/0/1566752127388?e=1616630400&v=beta&t=PDxlOuZLwmdrc2BzChU3bnN_tWMMigv_ziVnG2vNyEo)
-
 # < Hi there 👋, I am Marisa />
 
 An Italian former Architect who recently decided to switch careers and become a Full Stack Web Developer. 
@@ -21,7 +19,11 @@ I'm always looking to grow my personal and professional skills, so don't hesitat
 ## Skills 
 
 <img src='https://github.com/marisa2306/marisa2306/blob/main/html-5-logo.png' alt='html' height='40'> 
-
+<img src='https://github.com/marisa2306/marisa2306/blob/main/bootstrap.svg' alt='html' height='40'> 
+<img src='https://github.com/marisa2306/marisa2306/blob/main/js.svg' alt='html' height='40'>
+<img src='https://github.com/marisa2306/marisa2306/blob/main/express.svg' alt='html' height='40'> 
+<img src='https://github.com/marisa2306/marisa2306/blob/main/react.svg' alt='html' height='40'> 
+<img src='https://github.com/marisa2306/marisa2306/blob/main/node.svg' alt='html' height='40'> 
 
 ## My Github
 
